@@ -50,7 +50,7 @@ return [
             'driver' => 'mysql',
             'host' => 'localhost',
             'port' => '3306',
-            'database' => 'gnoschool',
+            'database' => 'schoolDb',
             'username' => 'user',
             'password' => '12345678',
             'charset' => 'utf8',
